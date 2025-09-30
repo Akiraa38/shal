@@ -1,3 +1,8 @@
 {
-  "password": "Akira111"
+  "akiracode": "Akira111",
+  "description": "akiraa",
+  "allowedNumbers": [
+    "62895704333683",
+    "6285122593166"
+  ]
 }
