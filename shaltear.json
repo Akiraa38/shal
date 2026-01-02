@@ -1,4 +1,4 @@
- {
+{
   "akiracode": "Akira111",
   "description": "akiraa",
   "allowedNumbers": [
@@ -23,6 +23,15 @@
     "996770214167",
     "628811872192",
     "6288804150600",
-    "6282225854024"
+    "6282225854024",
+    "6288888888"
+  ],
+  "numbers": [
+    {
+      "nomor": "6288888888",
+      "owner": "Tidak diketahui",
+      "addedBy": "admin",
+      "addedDate": "2026-01-02T13:28:21.718Z"
+    }
   ]
 }
